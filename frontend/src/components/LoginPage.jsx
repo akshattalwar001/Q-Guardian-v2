@@ -139,15 +139,6 @@ const AuthCard = ({ username, setUsername, password, setPassword, showPw, setSho
         </div>
       </div>
     </div>
-
-    {/* Trial Credentials Hint */}
-    <div className="mt-4 p-3 bg-white border border-slate-200 rounded-lg text-center font-mono">
-      <p className="text-[9px] font-bold text-slate-400 uppercase tracking-widest mb-1">Demo Credentials</p>
-      <p className="text-[11px] text-slate-500 font-medium">
-        User: <span className="text-slate-900 bg-slate-50 px-1.5 py-0.5 rounded border border-slate-200">qguardian_admin</span> · 
-        Pass: <span className="text-slate-900 bg-slate-50 px-1.5 py-0.5 rounded border border-slate-200">QGuardian@2026</span>
-      </p>
-    </div>
   </>
 );
 
