@@ -27,6 +27,9 @@ is never presented as a measurement.
 
 ---
 
+## Demo
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/GBUxvw9coxQ)
+
 ## Feature Overview
 
 ### Multi-source cryptographic discovery
