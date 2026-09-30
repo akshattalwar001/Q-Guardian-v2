@@ -28,7 +28,7 @@ is never presented as a measurement.
 ---
 
 ## Demo
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/GBUxvw9coxQ)
+[![Q-Guardian Demo](https://img.youtube.com/vi/GBUxvw9coxQ/maxresdefault.jpg)](https://youtu.be/GBUxvw9coxQ)
 
 ## Feature Overview
 
