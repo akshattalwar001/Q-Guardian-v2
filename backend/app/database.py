@@ -8,6 +8,9 @@ from app.settings import DATABASE_URL
 
 # Try to connect to configured DATABASE_URL; fall back to SQLite if PostgreSQL driver is missing
 try:
+    if DATABASE_URL.startswith("postgres://"):
+        DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
     if DATABASE_URL.startswith("sqlite"):
         connect_args = {"check_same_thread": False}
     else:
